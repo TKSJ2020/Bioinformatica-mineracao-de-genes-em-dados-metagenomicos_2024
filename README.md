@@ -1,8 +1,8 @@
 # Bioinformatica-mineracao-de-genes-em-dados-metagenomicos_2024
 
 
-:man_technologist:  __Tânia Keiko Shishido Joutsen__  
-:classical_building: University of Helsinki  
+  __Tânia Keiko Shishido Joutsen__  
+ University of Helsinki  
 :envelope: [tania.shishido@helsinki.fi](mailto:tania.shishido@helsinki.fi)
 
 Esse minicurso usará demonstrações e atividades hands on que podem ser usadas para estudar genes envolvidos na biossíntese de produtos naturais. 
