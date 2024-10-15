@@ -9,10 +9,6 @@ Esse minicurso usará demonstrações e atividades hands on que podem ser usadas
 
 ## Após esse minicurso, você deverá ser capaz de:
 
-reconhecer as ferramentas utilizadas no estudo de agrupamentos genéticos de produtos naturais e ser capaz de utilizar independentemente algumas dessas ferramentas com aplicações no estudo da biodiversidade e na biotecnologia
-
-**After completing this module, you will be able to:**
-
 * Reconhecer as ferramentas utilizadas no estudo de agrupamentos genéticos de produtos naturais
 * Ser capaz de utilizar independentemente algumas dessas ferramentas com aplicações no estudo da biodiversidade e na biotecnologia
 
