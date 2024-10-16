@@ -21,14 +21,10 @@ Esse minicurso usará demonstrações e atividades hands on que podem ser usadas
 
 08:00-8:15 | Introducao ao curso e aos participantes
 
-08:15-8:45 | **Aula e demonstracao:** Da coleta ao sequenciamento
-
-08:45-9:30| **Hands on:** Analise de sequências
+08:15-9:30 | **Aula e hands on:** Da coleta ao sequenciamento
 
 09:30-09:45 | **Break** 
 
-09:45-10:30 | **Aula e demonstracao:** Groupwork presentations
+09:45-11:45 | **Aula e hands on:** Analises de genes
 
-11:00-11:45 | **Hands on:** Analises de genes
-
-12:30-15:30 | **Q&A** & **Feedback:** Perguntas e respostas
+11:45-12:00 | **Q&A** & **Feedback:** Perguntas e respostas
