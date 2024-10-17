@@ -33,3 +33,6 @@ Esse minicurso usará demonstrações e atividades hands on que podem ser usadas
 
 material:
 https://filesender.funet.fi/?s=download&token=ed8c9a58-f2a4-4f03-8094-31f329a7fccb
+
+Slides:
+https://filesender.funet.fi/?s=download&token=4ba37b03-e574-422b-a078-12133e15c3f9
