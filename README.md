@@ -28,3 +28,8 @@ Esse minicurso usará demonstrações e atividades hands on que podem ser usadas
 10:45-11:45 | **Aula e hands on:** Analises de genes
 
 11:45-12:00 | **Q&A** & **Feedback:** Perguntas e respostas
+
+
+
+material:
+https://filesender.funet.fi/?s=download&token=ed8c9a58-f2a4-4f03-8094-31f329a7fccb
